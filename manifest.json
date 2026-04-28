@@ -1,0 +1,33 @@
+
+{
+  "short_name": "PrecisionFire",
+  "name": "Precision Fire SANS Registry",
+  "description": "Enterprise fire safety maintenance & regulatory inspection tool for South Africa.",
+  "id": "pfs-sans-registry-v4",
+  "start_url": "./index.html?mode=standalone",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/pfs/192/192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://picsum.photos/seed/pfs/192/192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/pfs/512/512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}

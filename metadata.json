@@ -1,0 +1,9 @@
+{
+  "name": "Precision Fire Services - SANS Compliance",
+  "description": "Professional maintenance and inspection tool for South African fire equipment (PROJECT_FINAL_V12.17), ensuring adherence to SANS 1475, SANS 10105, and related safety regulations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
